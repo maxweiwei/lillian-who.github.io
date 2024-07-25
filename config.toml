@@ -1,7 +1,8 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://blog.maxwei.us.kg/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = 'Lillian Who'
+title = 'Maxwei……在无知是福的地方
+智者有罪,装!装!'
 
 # 主题
 theme  =  "hello-friend"
@@ -22,11 +23,15 @@ rssLimit = 5
   url="/posts/reading/"
   weight="1"
   [[menu.main]]
-  name="Obsidian"
-  url="/posts/obsidian/"
+  name="想法"
+  url="/posts/想法/"
   weight="2"
   [[menu.main]]
-  name="闲聊"
+  name="感悟"
+  url="/posts/感悟/"
+  weight="5"
+  [[menu.main]]
+  name="随笔"
   url="/posts/chat/"
   weight="3"
   [[menu.main]]
