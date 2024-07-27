@@ -1,7 +1,7 @@
 baseURL = 'https://blog.maxwei.us.kg/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = 'Maxwei……在无知是福的地方,智者有罪--当反智成为时尚'
+title = 'Maxwei.当反智成为时尚,无知是福智者有罪'
 
 # 主题
 theme  =  "hello-friend"
